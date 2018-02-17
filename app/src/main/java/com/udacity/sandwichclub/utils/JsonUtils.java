@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Parses String containing a {@link JSONObject} and creates a new {@link Sandwich}.
+ * Provides Utilities for handling JSON.
  */
 public class JsonUtils {
 
